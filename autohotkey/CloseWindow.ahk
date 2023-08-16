@@ -1,0 +1,1 @@
+#q::WinClose "A"
